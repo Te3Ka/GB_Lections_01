@@ -1,0 +1,15 @@
+D:\GeekBrains\Знакомство с языками\Лекции\01\Project 01 - Hello World\bin\Debug\net6.0\Project 01 - Hello World.exe
+D:\GeekBrains\Знакомство с языками\Лекции\01\Project 01 - Hello World\bin\Debug\net6.0\Project 01 - Hello World.deps.json
+D:\GeekBrains\Знакомство с языками\Лекции\01\Project 01 - Hello World\bin\Debug\net6.0\Project 01 - Hello World.runtimeconfig.json
+D:\GeekBrains\Знакомство с языками\Лекции\01\Project 01 - Hello World\bin\Debug\net6.0\Project 01 - Hello World.dll
+D:\GeekBrains\Знакомство с языками\Лекции\01\Project 01 - Hello World\bin\Debug\net6.0\Project 01 - Hello World.pdb
+D:\GeekBrains\Знакомство с языками\Лекции\01\Project 01 - Hello World\obj\Debug\net6.0\Project 01 - Hello World.csproj.AssemblyReference.cache
+D:\GeekBrains\Знакомство с языками\Лекции\01\Project 01 - Hello World\obj\Debug\net6.0\Project 01 - Hello World.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Знакомство с языками\Лекции\01\Project 01 - Hello World\obj\Debug\net6.0\Project 01 - Hello World.AssemblyInfoInputs.cache
+D:\GeekBrains\Знакомство с языками\Лекции\01\Project 01 - Hello World\obj\Debug\net6.0\Project 01 - Hello World.AssemblyInfo.cs
+D:\GeekBrains\Знакомство с языками\Лекции\01\Project 01 - Hello World\obj\Debug\net6.0\Project 01 - Hello World.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Знакомство с языками\Лекции\01\Project 01 - Hello World\obj\Debug\net6.0\Project 01 - Hello World.dll
+D:\GeekBrains\Знакомство с языками\Лекции\01\Project 01 - Hello World\obj\Debug\net6.0\refint\Project 01 - Hello World.dll
+D:\GeekBrains\Знакомство с языками\Лекции\01\Project 01 - Hello World\obj\Debug\net6.0\Project 01 - Hello World.pdb
+D:\GeekBrains\Знакомство с языками\Лекции\01\Project 01 - Hello World\obj\Debug\net6.0\Project 01 - Hello World.genruntimeconfig.cache
+D:\GeekBrains\Знакомство с языками\Лекции\01\Project 01 - Hello World\obj\Debug\net6.0\ref\Project 01 - Hello World.dll
